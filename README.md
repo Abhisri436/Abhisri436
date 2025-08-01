@@ -18,7 +18,7 @@ I'm a Computational Data Science major at NJIT with a minor in Drones and Roboti
 ## 📌 Featured Projects
 
 ### 🔐 **ML-Based Cybersecurity (NSF REU)**
-Trained ML models on 1M+ samples for IoT threat detection (99% accuracy), and developed a real-time RAG-based LLM mitigation agent (~94–98% similarity). [Project Details Coming Soon]
+Trained ML models on 1M+ samples for IoT threat detection (99% accuracy), and developed a real-time RAG-based LLM mitigation system (~94–98% cosine similarity). [Project Details Coming Soon]
 
 ### 🧠 **Dementia Care Alert System (Princeton Hackathon)**
 Built a full-stack web app with DeepFace to recognize familiar faces in real time (~97% accuracy, <1s latency), with integrated safe-zone tracking for caregiver alerts. [🔗 GitHub Repo](https://github.com/lakshita1212/HackPrinceton)
@@ -34,7 +34,7 @@ Analyzed 200+ scientific charts to study how visual and textual elements impact 
 ## 💡 Interests & Leadership
 
 I'm Co-President of NJIT’s Financial Technology Club and Vice President of NJIT Girl Up, where I lead STEM events and advocate for women in tech.  
-Outside of tech, I enjoy mentoring in robotics outreach, playing volleyball, and exploring how AI and design intersect to improve real-world experiences. I'm passionate about responsible AI, interpretable machine learning, and using data science to improve outcomes in security, health, and equity.
+Outside of tech, I enjoy mentoring in robotics outreach, playing volleyball, and exploring how AI and design intersect to improve real-world experiences. I'm passionate about responsible AI, interpretable machine learning, and using data science to improve outcomes in security, health, and finance.
 
 ---
 

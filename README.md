@@ -27,7 +27,7 @@ Built a full-stack web app with DeepFace to recognize familiar faces in real tim
 Developed a Random Forest regression model on 2M insurance records with custom preprocessing; achieved ~1.15 RMSE on Kaggle. [🔗 GitHub Repo](https://github.com/Abhisri436/Insurance_Premium_Prediction)
 
 ### 📊 **Chart Interpretability Research**
-Analyzed 200+ scientific charts to study how visual and textual elements impact interpretability; built models to uncover patterns in multimodal chart design. [🔗 NiiV Lab](http://niiv.njitvis.com)
+Analyzed 200+ scientific charts to study how visual and textual elements impact interpretability; designed graphical visualizations to uncover patterns in multimodal chart design. [🔗 NiiV Lab](http://niiv.njitvis.com)
 
 ---
 

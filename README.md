@@ -40,7 +40,6 @@ Outside of tech, I enjoy mentoring in robotics outreach, playing volleyball, and
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: abhisri.barama@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/potri-abhisri-barama)  
 - 💻 [GitHub](https://github.com/Abhisri436)
 - ✍️ [Medium](https://medium.com/@PotriAbhisri)
